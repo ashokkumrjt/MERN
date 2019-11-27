@@ -1,7 +1,7 @@
 MERN Stack
 ***********************
 
-MERN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. The MERN stack is MongoDB, Express.js, AngularJS, and Node.js
+MERN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. The MERN stack is MongoDB, Express.js, React, and Node.js
 
 Proof of concept with MERN technology stacks
 
